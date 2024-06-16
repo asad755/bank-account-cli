@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 // File: account.ts
 
 import chalk from "chalk";

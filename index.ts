@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 // File: index.ts
 
 import inquirer from 'inquirer';
