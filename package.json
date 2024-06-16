@@ -1,6 +1,6 @@
 {
-  "name": "m16_rifle_bank-account-cli _mybank",
-  "version": "1.0.1",
+  "name": "m16_rifle_23bank-account-cli-mybank_",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -8,7 +8,7 @@
     "access": "public"
   },
   "bin": {
-    "m16_rifle_bank-account-cli _mybank": "index.js"
+    "m16_rifle_23bank-account-cli _mybank_": "index.js"
   },
   "scripts": {
     "start": "ts-node index.ts"
