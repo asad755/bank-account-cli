@@ -1,0 +1,25 @@
+{
+  "name": "bank-account-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "ts-node index.ts"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.2",
+    "@types/typescript": "^2.0.0",
+    "ts-node": "^10.9.2"
+  }
+}
