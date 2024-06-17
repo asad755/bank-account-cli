@@ -1,4 +1,3 @@
-#! /usr/bin/env node
 // File: account.ts
 import chalk from "chalk";
 export class Account {
@@ -37,4 +36,3 @@ export class Account {
         return this.fullName;
     }
 }
-console.log(chalk.bgRed("Welcome to the Bank Account CLI!"));

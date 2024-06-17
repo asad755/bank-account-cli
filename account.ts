@@ -46,5 +46,3 @@ export class Account {
         return this.fullName;
     }
 }
-console.log(chalk.bgRed("Welcome to the Bank Account CLI!"));
-
